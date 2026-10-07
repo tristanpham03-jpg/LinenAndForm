@@ -1,0 +1,14 @@
+{
+  "name": "linen-and-form",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node serve.mjs",
+    "check": "node check.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
