@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://linenandform.vercel.app/sitemap.xml

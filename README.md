@@ -4,7 +4,7 @@
 
 A deployable editorial affiliate site for affordable luxury home and apartment finds, built for readers arriving from Pinterest. Ten substantial buying guides, 30 product-category sections, a responsive homepage, guide collection, About, Contact, Privacy Policy, affiliate disclosure, and custom 404 page.
 
-Contact: **collegelife3500@gmail.com** (retained as requested).
+Contact: **linenandform@gmail.com**.
 
 ## Deploy to Vercel
 

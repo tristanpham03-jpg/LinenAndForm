@@ -1,7 +1,17 @@
 {
   "name": "Linen & Form",
-  "url": "",
-  "contactEmail": "collegelife3500@gmail.com",
+  "url": "https://linenandform.vercel.app",
+  "contactEmail": "linenandform@gmail.com",
   "ownerName": "",
-  "affiliateLinks": {}
+  "affiliateLinks": {
+    "textured-curtain-panels": "https://www.amazon.com/dp/B0CRTM5ZDN?tag=linenandform-20",
+    "sculptural-table-lamp": "https://www.amazon.com/dp/B0CSF1Z47R?tag=linenandform-20",
+    "large-decorative-tray": "https://www.amazon.com/dp/B0FHTQV7BR?tag=linenandform-20",
+    "bedroom-duvet-cover": "https://www.amazon.com/dp/B07QK9CTXR?tag=linenandform-20",
+    "bedside-shaded-lamp": "https://www.amazon.com/dp/B0C4SZBN64?tag=linenandform-20",
+    "bedroom-throw": "https://www.amazon.com/dp/B09VYXT3ZC?tag=linenandform-20",
+    "linen-shade-table-lamp": "https://www.amazon.com/dp/B0CPYCDMCR?tag=linenandform-20",
+    "reading-floor-lamp": "https://www.amazon.com/dp/B0C4DGFFCM?tag=linenandform-20",
+    "plug-in-wall-light": "https://www.amazon.com/dp/B094NCLJ3T?tag=linenandform-20"
+  }
 }
