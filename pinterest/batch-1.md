@@ -1,11 +1,13 @@
 # Pin batch 1 (approved 2026-10-07)
 
+Scheduled runs post the next queued pin in table order (whatever number the reminder names).
+
 Method: pinterest.com/pin-builder/?tab=save_from_url → enter guide URL → pick the image → title, description, board → Mark as AI-Modified ON → Publish.
 
 | # | Status | Image (on guide page) | Guide URL | Board | Title |
 |---|---|---|---|---|---|
 | 1 | posted 5:12 pm Oct 7 | amazon-home-finds-look-expensive-b | /guides/amazon-home-finds-look-expensive/ | Expensive-Looking Home Finds | Make a Rental Look High-End: 3 Amazon Home Finds |
-| 2 | queued | amazon-home-finds-look-expensive-a | /guides/amazon-home-finds-look-expensive/ | Expensive-Looking Home Finds | Amazon Finds That Make Your Home Look Expensive |
+| 2 | posted 9:20 pm Oct 7 | amazon-home-finds-look-expensive-a | /guides/amazon-home-finds-look-expensive/ | Expensive-Looking Home Finds | Amazon Finds That Make Your Home Look Expensive |
 | 3 | queued | affordable-bedroom-upgrades-a | /guides/affordable-bedroom-upgrades/ | Bedroom Upgrades | Affordable Bedroom Upgrades With a Hotel Feel |
 | 4 | queued | affordable-high-end-lighting-a | /guides/affordable-high-end-lighting/ | Lighting Ideas | Affordable Lighting That Looks Expensive |
 | 5 | queued | affordable-bedroom-upgrades-b | /guides/affordable-bedroom-upgrades/ | Bedroom Upgrades | How to Make Your Bed Look Like a Boutique Hotel |
