@@ -48,6 +48,16 @@
         "check": "Travertine is porous and each tray varies in pattern. It weighs about 5.5 lb, so it sits firmly but is not one to carry around full. Wipe spills promptly.",
         "skip": "Skip if a tray would only become another layer of clutter."
       }
+    ],
+    "pins": [
+      {
+        "src": "/pins/amazon-home-finds-look-expensive-a.jpg",
+        "alt": "Amazon finds that make your home look expensive"
+      },
+      {
+        "src": "/pins/amazon-home-finds-look-expensive-b.jpg",
+        "alt": "Make a rental look high-end"
+      }
     ]
   },
   {
@@ -98,6 +108,16 @@
         "why": "A waffle-weave throw folded at the foot of the bed adds texture and a second neutral tone without feeling heavy.",
         "check": "It is lightweight 100% cotton and pre-washed, so it suits warm sleepers more than very cold rooms. Check the color name against your bedding.",
         "skip": "Skip if extra layers already end up stored on the floor."
+      }
+    ],
+    "pins": [
+      {
+        "src": "/pins/affordable-bedroom-upgrades-a.jpg",
+        "alt": "Affordable bedroom upgrades with a hotel feel"
+      },
+      {
+        "src": "/pins/affordable-bedroom-upgrades-b.jpg",
+        "alt": "How to make your bed look like a boutique hotel"
       }
     ]
   },
@@ -353,6 +373,16 @@
         "why": "Wall lights flanking a bed or mirror look built-in and free up nightstand space. Plug-in sconces need no electrician, which suits renters.",
         "check": "Comes as a pair with beige fabric shades and an on/off switch on the cord. The listing includes a bulb with three color temperatures; mounting still needs screws in the wall.",
         "skip": "Skip if you cannot install it according to the manufacturer’s instructions."
+      }
+    ],
+    "pins": [
+      {
+        "src": "/pins/affordable-high-end-lighting-a.jpg",
+        "alt": "Affordable lighting that looks expensive"
+      },
+      {
+        "src": "/pins/affordable-high-end-lighting-b.jpg",
+        "alt": "Warm, layered light for less"
       }
     ]
   },
