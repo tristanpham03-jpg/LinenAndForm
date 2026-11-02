@@ -1,8 +1,8 @@
 import math, subprocess, sys, os
 from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageEnhance
 W, H, FPS = 1080, 1920, 30
-SER = '/home/claude/fonts/CormorantGaramond%5Bwght%5D.ttf'
-SANS = '/home/claude/fonts/Jost%5Bwght%5D.ttf'
+SER = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'fonts', 'CormorantGaramond.ttf')
+SANS = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'fonts', 'Jost.ttf')
 D = os.environ.get('TT_DIR', '/home/claude/media/v3/')
 OLIVE, CREAM, CLAY, ESP, SAND = '#343F32', '#F3EDE3', '#B98466', '#2D2521', '#CDBFA8'
 _fc = {}
