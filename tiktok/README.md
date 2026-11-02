@@ -19,4 +19,5 @@ Rules that matter:
 - Upload via Buffer (channel linenandform0) from a path under the repo, one per day at 12:00 PM PT. Free plan: 10 queued posts max.
 
 ## Batch log
-- 2026-11-02: 01-moffe-lamp … 10-small-space (public/videos/tt/), queued Nov 2–11.
+- 2026-11-02: 01-moffe-lamp … 10-small-space (public/videos/tt/), queued in Buffer for Nov 3–12, 12:00 PM PT (04 re-encoded at crf 25 to stay under the 10 MB upload limit).
+- Buffer upload limit through the Chrome tool: 10 MB per file; re-encode with `-crf 25` if bigger.
