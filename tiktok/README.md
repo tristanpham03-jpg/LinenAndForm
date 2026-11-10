@@ -20,4 +20,6 @@ Rules that matter:
 
 ## Batch log
 - 2026-11-02: 01-moffe-lamp … 10-small-space (public/videos/tt/), queued in Buffer for Nov 3–12, 12:00 PM PT (04 re-encoded at crf 25 to stay under the 10 MB upload limit).
+- 2026-11-10: 11-blackout-curtains (spot, Joydeco), 12-fall-evening (list), 13-guest-room (check), 14-sofa-throw (spot, RYXTHALA), 15-hosting (list), 16-evening-lighting (check), 17-entry-rug (spot, WondRg), queued for Nov 12–18, 12:00 PM PT, AI toggle off. 10-small-space was not in the queue for Nov 12 (likely never queued); the Oct 18 "Cozy fall bedroom refresh" post is stuck in the queue with an error and takes one of the 10 free slots. Prices checked on Amazon 2026-11-10 (Joydeco now $27.99, floor lamp $33.99, waffle $23.99, ribbed lamp $39.99).
+- Buffer time field: typing into it doesn't replace the value; open it and click the "12:00 PM" option in the suggestion list instead.
 - Buffer upload limit through the Chrome tool: 10 MB per file; re-encode with `-crf 25` if bigger.
