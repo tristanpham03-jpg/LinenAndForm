@@ -55,7 +55,7 @@ def cover(img, w, h, z=1.0, fx=0.5, fy=0.5):
     nw, nh = img.width * s, img.height * s
     x0 = (nw - w) * fx
     y0 = (nh - h) * fy
-    box = (x0 / s, y0 / s, (x0 + w) / s, (y0 + h) / s)
+    box = (max(0, x0 / s), max(0, y0 / s), min(img.width, (x0 + w) / s), min(img.height, (y0 + h) / s))
     return img.resize((w, h), Image.BILINEAR, box=box)
 
 
