@@ -120,6 +120,50 @@ V['17-entry-rug'] = dict(style='spot', name='Washable entry rug', end='2x3 under
     dict(img='RUG_0', dur=2.6, end=True, zoom='out'),
 ])
 
+V['18-gift-guide'] = dict(style='list', pal=(ESP, CREAM, '#C9A46A'), hook='Gifts for friends with great taste', end_title='Every gift, linked', end='Shop them on Pinterest: Linen & Form', items=[
+    dict(img='MOFFE_0', name='Solid wood table lamp', why='Dimmable, with a built-in timer', price='Under $80'),
+    dict(img='THROW_3', z=1.7, fx=0.3, fy=1.0, name='Wool blend throw', why='Soft knit, 50 x 60 inches', price='Under $40'),
+    dict(img='TRAY_1', name='Travertine tray', why='For the vanity or the coffee table', price='Under $50'),
+    dict(img='BOARD_4', name='Acacia serving board', why='17 x 13, for cutting and serving', price='Under $30'),
+    dict(img='WAFFLE_5', name='Cotton waffle throw', why='100% cotton, lightweight', price='Under $30'),
+])
+V['19-winter-bedroom'] = dict(style='check', title='Winter bedroom checklist', end='Shop the list on Pinterest: Linen & Form', items=[
+    dict(img='JOYDECO_1', line='Thermal blackout curtains', note='Linen blend, floor length'),
+    dict(img='DUVET_1', line='A washed cotton duvet cover', note='Hidden zipper, corner ties'),
+    dict(img='THROW_4', z=1.6, fx=0.6, fy=1.0, line='A wool blend throw', note='Soft knit, 50 x 60'),
+    dict(img='MOFFE_1', z=1.35, fy=1.0, line='A bedside lamp with a timer', note='Dims down for reading'),
+    dict(img='RUG_0', line='A soft rug where your feet land', note='Washable, non-slip backing'),
+])
+V['20-wood-lamp'] = dict(style='spot', name='Solid wood table lamp', end='Under $80 · on Pinterest: Linen & Form', hook='Turn off the overhead light. Use this.', scenes=[
+    dict(img='MOFFE_0', dur=2.6),
+    dict(img='MOFFE_0', dur=2.2, cap='Real solid wood base', z=1.7, fy=1.0),
+    dict(img='MOFFE_0', dur=2.2, cap='Lacing you can re-lace', z=1.6, fy=0.25),
+    dict(img='MOFFE_4', dur=2.2, cap='Dimmable, with a timer', z=1.5, fy=1.0),
+    dict(img='MOFFE_1', dur=2.2, cap='Warm 2700K bulb included', z=1.35, fy=1.0),
+    dict(img='MOFFE_0', dur=2.6, end=True, zoom='out'),
+])
+V['21-under-40'] = dict(style='list', pal=(CLAY, CREAM, ESP), hook='Cozy upgrades, all under $40', end_title='All five, linked', end='Shop them on Pinterest: Linen & Form', items=[
+    dict(img='THROW_4', z=1.6, fx=0.6, fy=1.0, name='Wool blend throw', why='Brown and cream knit', price='Under $40'),
+    dict(img='JOYDECO_0', name='Linen blend blackout curtains', why='Thermal insulated', price='Under $35'),
+    dict(img='SCONCE_1', z=1.8, fy=0.0, name='Plug-in wall sconces', why='Set of two, no wiring', price='Under $35'),
+    dict(img='FLOOR_3', name='Arched floor lamp', why='Linen-look shade', price='Under $30'),
+    dict(img='RUG_0', name='Washable entry rug', why='2x3, non-slip backing', price='Under $10'),
+])
+V['22-calm-living-room'] = dict(style='check', title='Small swaps for a calmer living room', end='Shop the list on Pinterest: Linen & Form', items=[
+    dict(img='TRAY_4', fx=0.3, line='A stone tray for the clutter', note='Travertine, 15 x 10'),
+    dict(img='JARLAMP_1', line='Lamps instead of the ceiling light', note='Ceramic, 3-way switch'),
+    dict(img='WAFFLE_4', z=1.4, fx=0.0, fy=1.0, line='A light cotton throw', note='100% cotton waffle'),
+    dict(img='JOYDECO_1', line='Curtains that soften the window', note='Linen blend, floor length'),
+    dict(img='RUG_0', line='A rug you can actually wash', note='Non-slip backing'),
+])
+V['23-jar-lamp'] = dict(style='spot', name='Ceramic jar table lamp', end='Under $90 · on Pinterest: Linen & Form', hook='One big lamp beats three small ones', scenes=[
+    dict(img='JARLAMP_3', dur=2.6),
+    dict(img='JARLAMP_0', dur=2.2, cap='23 inches tall'),
+    dict(img='JARLAMP_4', dur=2.2, cap='Distressed cream ceramic'),
+    dict(img='JARLAMP_1', dur=2.2, cap='3-way switch, ivory shade'),
+    dict(img='JARLAMP_3', dur=2.6, end=True, zoom='out'),
+])
+
 if __name__ == '__main__':
     import sys
     name = sys.argv[1]
